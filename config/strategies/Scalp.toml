@@ -1,0 +1,11 @@
+limit = 0.1
+stopLoss = 0.025
+
+[ema]
+interval = 14
+persistence = 1
+
+[rsa]
+interval = 14
+high = 70
+low = 30

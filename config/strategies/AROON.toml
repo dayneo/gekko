@@ -1,0 +1,2 @@
+interval = 14
+tradeAgainst = false # set to true to trade opposite to market.
